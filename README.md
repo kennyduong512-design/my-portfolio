@@ -1,2 +1,34 @@
 # my-portfolio
 My personal portfolio website
+
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Giới thiệu - Portfolio</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <nav>
+        <a href="index.html">Trang chủ</a>
+        <a href="about.html">Giới thiệu</a>
+        <a href="contact.html">Liên hệ</a>
+    </nav>
+
+    <header>
+        <h1>Đặng Thái Dương </h1>
+        <p>Sinh viên Công nghệ thông tin</p>
+    </header>
+
+    <section>
+        <h2>Thông tin cá nhân</h2>
+        <img src="images/avatar.jpg" alt="Ảnh đại diện"
+             width="180">
+        <p>Xin chào! Mình đang học ngành Công nghệ thông tin.</p>
+        <p>Mình yêu thích lập trình và thiết kế website.</p>
+    </section>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
